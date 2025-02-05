@@ -2,7 +2,7 @@
 #include <vector>
 #include <queue>
 #include <unordered_map>
-
+//open in kali linux on 05 feb 2025;
 using namespace std;
 
 // Function to perform Breadth-First Search (BFS)
